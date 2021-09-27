@@ -1,0 +1,151 @@
+{
+  "pets": [
+    {
+      "name": "Cat1",
+      "type": "Cat",
+      "gender": "Other",
+      "age": "2",
+      "id": 1
+    },
+    {
+      "name": "Parrot1",
+      "type": "Parrot",
+      "gender": "Male",
+      "age": "1",
+      "id": 2
+    },
+    {
+      "name": "Worlfy",
+      "type": "Dog",
+      "gender": "Female",
+      "age": "2",
+      "id": 3
+    }
+  ],
+  "typesP": [
+    {
+      "id": 1,
+      "name": "Dog"
+    },
+    {
+      "id": 2,
+      "name": "Cat"
+    },
+    {
+      "id": 5,
+      "name": "Bird"
+    },
+    {
+      "id": 6,
+      "name": "Snake"
+    }
+  ],
+  "typesA": [
+    {
+      "id": 1,
+      "type": "Bath"
+    },
+    {
+      "id": 2,
+      "type": "Hair"
+    },
+    {
+      "id": 3,
+      "type": "Nails"
+    },
+    {
+      "id": 4,
+      "type": "Teeth"
+    },
+    {
+      "id": 5,
+      "type": "Fleas & ticks"
+    },
+    {
+      "id": 6,
+      "type": "Bed"
+    },
+    {
+      "id": 7,
+      "type": "Food"
+    },
+    {
+      "id": 8,
+      "type": "Water"
+    },
+    {
+      "id": 9,
+      "type": "Toys"
+    },
+    {
+      "id": 10,
+      "type": "Walk"
+    }
+  ],
+  "activity": [
+    {
+      "id": 1,
+      "name": "Cat1",
+      "type": "Hair",
+      "sdate": "21-10-2021",
+      "stime": "20:30:59",
+      "edate": "20-10-2021",
+      "etime": "20:30:59",
+      "notes": "Cut the hair"
+    },
+    {
+      "id": 2,
+      "name": "Wolfy",
+      "type": "Nails",
+      "sdate": "21-10-2021",
+      "stime": "20:30:59",
+      "edate": "20-10-2021",
+      "etime": "20:30:59",
+      "notes": "Cut the nails"
+    }
+  ],
+  "typesM": [
+    {
+      "id": 1,
+      "type": "Medication"
+    },
+    {
+      "id": 2,
+      "type": "Obeservation"
+    },
+    {
+      "id": 3,
+      "type": "Treatment"
+    },
+    {
+      "id": 4,
+      "type": "Vaccination"
+    },
+    {
+      "id": 5,
+      "type": "Analysis"
+    }
+  ],
+  "medical": [
+    {
+      "id": 1,
+      "name": "Wolfy",
+      "type": "Vaccination",
+      "sdate": "21-10-2021",
+      "stime": "20:30:59",
+      "edate": "20-10-2021",
+      "etime": "20:30:59",
+      "notes": "Anti-Rabies"
+    },
+    {
+      "id": 2,
+      "name": "Parrot1",
+      "type": "Treatment",
+      "sdate": "21-10-2021",
+      "stime": "20:30:59",
+      "edate": "20-10-2021",
+      "etime": "20:30:59",
+      "notes": "First Vaccine dose"
+    }
+  ]
+}
